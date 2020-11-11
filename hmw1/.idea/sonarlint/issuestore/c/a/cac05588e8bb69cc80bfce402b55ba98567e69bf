@@ -1,0 +1,19 @@
+
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(ğ¾ïŞşÿÿÿÿ8Æƒ—Û.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹²öó8Œ€šÛ.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ğ¾ïŞşÿÿÿÿ8è®‘šÛ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¼÷8‡ĞÛ.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(™ˆİª8Œ€šÛ.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(¼ı–ã8Œ€šÛ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÊÍßûÿÿÿÿ8Œ€šÛ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ÒİßÓ8Œ€šÛ.
+Z
+java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8‚â¤ˆÛ.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ğ¾ïŞşÿÿÿÿ8®’ÕÛ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úæ³¶ùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™ğ€Àüÿÿÿÿ8Œ€šÛ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ü³ÇË8Ëñ›Û.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ¼÷8æŒÇÛ.
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(ğ¾ïŞşÿÿÿÿ8Œ€šÛ.
